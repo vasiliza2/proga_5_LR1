@@ -1,7 +1,7 @@
 # Лабораторная работа №1. Реализация удаленного импорта собственного пакета
 
 1.Создали файл myremotemodule.py, который будет импортироваться, разместили его в каталоге, который далее будет "корнем сервера".
-Разместите в нём необходимый код
+Разместиkb в нём необходимый код
 ![Image1](https://github.com/vasiliza2/proga_5_LR1/blob/76668a338e99b20a10b6f682f16aaa75aef06c07/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-09-05%20150228.png)
 
 2. Создали файл Python с содержимым функций url_hook и классов URLLoader, URLFinder из текста конспекта лекции со всеми необходимыми библиотеками
@@ -15,7 +15,7 @@ python3 -m http.server
 4. После этого мы запустили файл, в котором содержится код.
 python3 -i activation_script.py
  
-Выполняем код:
+Выполнbkb код:
 sys.path.append("http://localhost:8000")
 
 ![image5](https://github.com/vasiliza2/proga_5_LR1/blob/94a94fc9f690de4362692987a013dffa2ce909b8/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-09-05%20143837.png)
