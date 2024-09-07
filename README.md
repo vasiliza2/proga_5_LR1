@@ -21,3 +21,9 @@ sys.path.append("http://localhost:8000")
 ![image5](https://github.com/vasiliza2/proga_5_LR1/blob/94a94fc9f690de4362692987a013dffa2ce909b8/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-09-05%20143837.png)
 
 ![image6](https://github.com/vasiliza2/proga_5_LR1/blob/e2f051fa3a0ab0ffc031517b125c381ae3c6d1d7/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-09-05%20143737.png)
+
+
+## Задание со *
+
+Добавим в вывод обработчик, который будет ловить исключения
+![image6](https://github.com/vasiliza2/proga_5_LR1/blob/0b81bacf70934ce9d81110eb2aeb0e359834eed7/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-09-07%20103143.png)
